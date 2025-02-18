@@ -1,9 +1,3 @@
-### 📊 GitHub Stats 
-<div align="center">
-  ![Wan's Stats](https://github-readme-stats.vercel.app/api?username=WanTastic25&theme=outrun&show_icons=true&hide_border=true&count_private=true) 
-  ![Wan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WanTastic25&theme=outrun&show_icons=true&hide_border=true&layout=compact)
-</div>
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <table>
   <tr>
