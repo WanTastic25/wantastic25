@@ -31,8 +31,7 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/flask.svg" height="50" width="50" /></td>
     <td allign="center">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=ae"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/></td>
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="Unity"  width="50" height="50"/>
     <td allign="center">
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="java" height="50" width="50" />
