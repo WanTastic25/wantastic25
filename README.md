@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanTastic25&theme=default&show_icons=true&hide_border=true&layout=compact" alt="WanTastic25's GitHub Stats" />
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <table>
   <tr>
