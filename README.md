@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wantastic25)](https://github.com/WanTastic25/github-readme-stats)
+<div allign="center">
+  ![Wan's Stats](https://github-readme-stats.vercel.app/api?username=WanTastic25&theme=outrun&show_icons=true&hide_border=true&count_private=true) 
+  ![Wan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WanTastic25&theme=outrun&show_icons=true&hide_border=true&layout=compact)
+</div>
